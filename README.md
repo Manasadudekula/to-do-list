@@ -1,4 +1,4 @@
-# to-do-list
+
 📝 To-Do List Web App 📌 Project Overview This is a simple To-Do List Web Application built using HTML, CSS, and JavaScript. The app allows users to add tasks, mark them as completed, and remove them when done. When a task is completed, it gets crossed out to indicate its status.
 
 🎯 Features ✅ Add tasks to the list ✅ Mark tasks as completed (strikethrough effect) ✅ Remove completed tasks ✅ Responsive and user-friendly design
