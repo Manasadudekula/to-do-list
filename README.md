@@ -10,3 +10,4 @@ Users can enter a task in the input field and click the "Add" button. The task i
 Clicking on a task will toggle its completion state. Completed tasks appear crossed out. Removing Tasks:
 
 Once a task is completed, it can be removed from the list.
+
